@@ -5,15 +5,15 @@ About this project: The "Netstalk Neglector Project" is the "Data fetching progr
 #How to use this program?
 >1. Download the newest version of Python from https://www.python.org/downloads/
 <img width="1213" height="455" alt="image" src="https://github.com/user-attachments/assets/04ce94a1-50d7-40f0-9673-0d0a01a887bf" />
->.
+
 
 >2. Install this library by using "pip install requests google-auth google-auth-oauthlib google-api-python-client" command on your "Terminal"
 <img width="1113" height="187" alt="image" src="https://github.com/user-attachments/assets/e3788be1-21c6-4832-8ddf-7d84f94316ed" />
->.
+
 
 >3. Go to "https://developer.twitter.com/en/portal/dashboard" and sign in using your Twitter Account that you want to fetch the immage from.
 <img width="841" height="844" alt="image" src="https://github.com/user-attachments/assets/1d03942c-47ba-4a2b-85f8-b90aced51405" />
->.
+
 
 >4. Click sign in for free at the bottom #Disclaimer: I recommended that you use the free version but you will just be able to download the latest 100 tweet that you have liked
 
