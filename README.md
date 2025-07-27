@@ -47,3 +47,4 @@ About this project: The "Netstalk Neglector Project" is the "Data fetching progr
 
 <img width="595" height="771" alt="image" src="https://github.com/user-attachments/assets/ed559355-32d2-4d79-926e-92f5a5625d04" />
 
+GOOGLE DRIVE CREDENTIAL https://console.cloud.google.com/welcome?inv=1&invt=Ab34uQ&project=smthingcomp
