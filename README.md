@@ -1,3 +1,7 @@
+THIS README.md STILL EDITING AND NO FINISHED
+
+
+
 #Disclaimer: This project is highly AI-based code and the creator didn't had any background or professional in coding industry before, This project is solely for study purpose.
 
 About this project: The "Netstalk Neglector Project" is the "Data fetching program" that will fetch your "liked tweet's picture" and then will download the liked tweet picture into your destined Google Drive folder.
